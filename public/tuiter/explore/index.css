@@ -55,16 +55,16 @@ p {
 }
 
 .wd-float-right {
-    float: right;
+float: right;
 }
 
 .wd-float-left {
-    float: left;
+float: left;
 }
 
 .wd-float-done {
-    clear: both;
-    }
+clear: both;
+}
 
 .wd-topic {
     padding: 5px;
