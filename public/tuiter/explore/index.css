@@ -1,25 +1,6 @@
-html {
-    font-family: Arial, Helvetica, sans-serif;
-    padding-left: 16px;
-    background-color: black;
-    size: 13px;
-    color: rgba(110, 118, 125, 1);
-    
-}
-
-input {
-    border-radius: 50px;
-    background-color: darkgray;
-    width: 95%;
-}
-
 a {
     font-size: 15px;
     padding: 16px;
-}
-
-b {
-    color: white;  
 }
 
 .wd-fake-link-highlight {
@@ -36,46 +17,25 @@ p {
     margin-top: 5px;
 }
 
-.wd-bottom-padding {
-    padding-bottom: 16px;
-}
-
-.wd-bordered {
-    border-top: 1px;
-    border-bottom: 1px;
-    border-right: 0px;
-    border-left: 0px;
-    border-color: grey;
-    border-style: solid;
-}
-
 .wd-options-icon {
     margin-top: 5px;
     margin-bottom: 0px;
 }
 
 .wd-float-right {
-float: right;
+    float: right;
 }
 
 .wd-float-left {
-float: left;
+    float: left;
 }
 
 .wd-float-done {
-clear: both;
+    clear: both;
 }
 
-.wd-topic {
-    padding: 5px;
-}
-
-.wd-trend {
-    padding: 5px;
-}
-
-.wd-suggested {
-    padding: 5px;
+.rounded.override-bs {
+    border-radius: 30px;
 }
 
 
