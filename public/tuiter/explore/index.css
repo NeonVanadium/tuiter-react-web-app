@@ -1,4 +1,3 @@
-
 p {
     padding: 0px;
     margin-bottom: 5px;
@@ -13,4 +12,7 @@ p {
     border-radius: 30px;
 }
 
+.wd-rounded-input {
+    border-radius: 30px;
+}
 
