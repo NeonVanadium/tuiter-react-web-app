@@ -1,15 +1,3 @@
-a {
-    font-size: 15px;
-    padding: 16px;
-}
-
-.wd-fake-link-highlight {
-    color: rgba(29, 161, 242, 1);
-    border-color: rgba(29, 161, 242, 1);
-    border-bottom: 5px;
-    border-bottom-style: solid;
-    margin-bottom: 10px;
-}
 
 p {
     padding: 0px;
@@ -17,21 +5,8 @@ p {
     margin-top: 5px;
 }
 
-.wd-options-icon {
-    margin-top: 5px;
-    margin-bottom: 0px;
-}
-
 .wd-float-right {
     float: right;
-}
-
-.wd-float-left {
-    float: left;
-}
-
-.wd-float-done {
-    clear: both;
 }
 
 .rounded.override-bs {
