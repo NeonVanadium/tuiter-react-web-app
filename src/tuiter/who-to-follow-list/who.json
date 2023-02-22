@@ -1,0 +1,17 @@
+[
+    {   
+        "avatarIcon": "http://2.bp.blogspot.com/-dEy1avGvRCc/UuuRGq1MUgI/AAAAAAAABSM/FFWRrdiim8I/s1600/java-logo.png",
+        "userName": "Java",
+        "handle": "Java" 
+    },
+    {   
+        "avatarIcon": "https://www.davemanuel.com/images/tesla_logo_t.jpg",
+        "userName": "Tesla",
+        "handle": "Tesla" 
+    },
+    {   
+        "avatarIcon": "https://www.pngitem.com/pimgs/m/42-424791_nasa-logo-vector-png-transparent-png.png",
+        "userName": "NASA",
+        "handle": "NASA" 
+    }
+]
