@@ -13,7 +13,7 @@ const WhoToFollowListItem = (
               </div>
               
               <div className="col ms-1">
-                  <b>{who.userName}</b> <i className="bi bi-check-circle"></i>
+                  <b>{who.userName}</b> <i className="bi bi-check-circle-fill text-primary"></i>
                   <p>@{who.handle}</p>
               </div>
           </div>
