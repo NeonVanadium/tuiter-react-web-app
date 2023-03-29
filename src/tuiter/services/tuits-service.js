@@ -1,6 +1,6 @@
 import axios from 'axios';
-//const TUITS_API = 'https://tuiter-node-server-app-cs1234-sp23.onrender.com/api/tuits';
-const API_BASE = process.env.REACT_APP_API_BASE;
+const API_BASE = 'https://tuiter-node-server-app-fve2.onrender.com/api';
+//const API_BASE = process.env.REACT_APP_API_BASE
 const TUITS_API = `${API_BASE}/tuits`;
 
 export const createTuit = async (tuit) => {
@@ -19,11 +19,9 @@ export const deleteTuit = async (tid) => {
         .delete(`${TUITS_API}/${tid}`)
     return response.data
 }
-  
    
 export const updateTuit = async (tuit) => {
     const response = await axios
       .put(`${TUITS_API}/${tuit._id}`, tuit);
     return tuit;
   }
-  
